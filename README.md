@@ -1,1 +1,0 @@
-# Wordpress-con-postgresql-pgadmin-en-docker-compose
